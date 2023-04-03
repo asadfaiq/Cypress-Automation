@@ -1,0 +1,14 @@
+{
+  "LoginPage":{
+  
+  "username": "asadfaiq4@gmail.com",
+  "password": "123456"
+  },
+  "Home":
+  {
+    "ExpenseName":"Daily Expense",
+    "Amount" : "5000",
+    "ExpenseDate":"3/21/2023"
+    
+  }
+}
